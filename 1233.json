@@ -1,0 +1,21 @@
+{
+  "info": "软件分享",
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+      "name": "拾光接口"
+    },
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭总"
+    },
+    {
+      "url": "http://肥猫.net/tv",
+      "name": "肥猫"
+    },
+    {
+      "url": "https://宝盒接口.top",
+      "name": "宝盒接口"
+    }
+  ]
+}
