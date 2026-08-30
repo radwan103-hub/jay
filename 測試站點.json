@@ -1,0 +1,9 @@
+{
+  "info": "測試站點",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/radwan103-hub/jay/refs/heads/main/ABC.json",
+      "name": "測試"
+    }
+  ]
+}
