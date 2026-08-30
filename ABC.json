@@ -15,6 +15,20 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/douban.json"
         },
         {
+            "key": "免费影院",
+            "name": "㊙️免费影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/免费影院.json"
+        },
+        {
             "key": "视频采集3",
             "name": "采集视频3",
             "type": 1,
@@ -364,45 +378,6 @@
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/182.jar"
         },
         {
-            "key": "黑炮视频",
-            "name": "黑炮视频",
-            "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://heifengjingline.live/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-            }
-        },
-        {
-            "key": "爱 AV",
-            "name": "爱 AV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 12；； PEHM00 Build/SKQ1.210216.001；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36&&Cookie@c6s_RobotVerify=1；； gg_iscookie=1；； _ga=GA1.1.1482105610.1729155635；； c6s_uv=21e3094d1ded55b9be44364d1d0ac6ec；； gg_show_number3644=3",
-                "编码": "UTF-8",
-                "主页url": "https://xn--ieu270c.mnrj0z53.xyz",
-                "数组": "默认--<div class=\"gal\">&&</a||搜索--<div class=\"gal\">&&</a",
-                "图片": "original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "</i>&&<",
-                "简介": "description\" content=\"&&\"",
-                "链接": "href=\"&&\"",
-                "跳转播放链接": "\"url\": \"&&\"",
-                "搜索模式": "1",
-                "搜索url": "/index.php?m=vod-search-wd-{wd}-pg-{pg}.htm",
-                "分类url": "/index.php?m=vod-type-id-{cateId}-pg-{catePg}.htm;;z",
-                "分类": "国产视频$495#国产传媒$496#中文字幕$497#日本有码$498#日本无码$499#强奸乱伦$500#制服诱惑$501#激情欧美$502#成人动漫$503#抖阴视频$504#人妖伪娘$505#萝莉少女$1116#SM调教$1117#三级片$1118"
-            }
-        },
-        {
             "key": "色播",
             "name": "🔞色播直播",
             "type": 3,
@@ -425,34 +400,6 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/PornLuLu.json"
         },
         {
-            "key": "941",
-            "name": "㊙️┃941c",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/941c.json"
-        },
-        {
-            "key": "18",
-            "name": "㊙️18j",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/18j.json"
-        },
-        {
             "key": "83视频",
             "name": "㊙️83视频",
             "type": 3,
@@ -466,21 +413,7 @@
             "filterable": 1,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/83视频.json"
         },
-        {
-            "key": "免费影院",
-            "name": "㊙️免费影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/免费影院.json"
-        },
-        {
+                {
             "key": "魔法少女",
             "name": "㊙️魔法少女",
             "type": 3,
@@ -493,48 +426,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/魔法少女.json"
-        },
-        {
-            "key": "奶妃",
-            "name": "㊙️奶妃",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/奶妃.json"
-        },
-        {
-            "key": "七色谷",
-            "name": "㊙️七色谷",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/七色谷.json"
-        },
-        {
-            "key": "桃花",
-            "name": "㊙️桃花",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/桃花.json"
         },
         {
             "key": "淘精岁月",
