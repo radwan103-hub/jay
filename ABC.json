@@ -292,20 +292,6 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/成鸡思汉.json"
         },
         {
-            "key": "csp_XYQHiker_ggjav",
-            "name": "🔞GGJAV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/ggjav.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
             "key": "18AV",
             "name": "🔞18AV(翻）",
             "playUrl": "json:http://127.0.0.1:7891/parse/?thread=0&proxy=&url=",
