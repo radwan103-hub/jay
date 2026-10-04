@@ -597,44 +597,7 @@
                 "分类url": "/vodshow/{cateId}-----{letter}---{catePg}---.html"
             }
         },
-        {
-            "key": "小黄书",
-            "name": "小黄书",
-            "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "过滤词": "https://upload.xchina.io",
-                "主页url": "https://xchina.fit/categories.html",
-                "数组": "item video\">&&</a",
-                "图片": "background-image:url('&&')",
-                "标题": "title=\"&&\"",
-                "简介": "twitter:title\" content=\"&&\"",
-                "链接": "href=\"&&\"",
-                "搜索模式": "1",
-                "搜索url": "https://xchina.fit/videos/series-id/{pg}.html?wd={wd}",
-                "分类数组": "<a&&</a",
-                "分类标题": "title\">&&<",
-                "分类ID": "/videos/series-&&.html",
-                "分类url": "https://xchina.fit/videos/series-{cateId}/{catePg}.html;;z"
-            }
-        },
-        {
-            "key": "辣味视频",
-            "name": "🍁辣味视频🍁",
-            "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/X_XBPQ.jar",
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://xsese.com/;;!",
-                "简介": "description\" content=\"&&\""
-            }
-        },
-        {
+      {
             "key": "Zuise",
             "name": "㊙️┃ZUISE (墙)",
             "type": 3,
